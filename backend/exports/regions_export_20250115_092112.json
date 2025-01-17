@@ -1,0 +1,29 @@
+{
+  "salesPeople": [
+    {
+      "email": "chris.reynolds@quantumrhino.com",
+      "firstName": "Chris",
+      "id": "1736953757744",
+      "lastName": "Reynolds",
+      "phone": "6024126019"
+    },
+    {
+      "firstName": "Kiley",
+      "lastName": "Reynolds",
+      "email": "kiley.reynolds@quantumrhino.com",
+      "phone": "6232290965",
+      "id": "1736954470498"
+    }
+  ],
+  "regions": {
+    "West Region": {
+      "territories": [
+        "Alabama",
+        "California",
+        "Arizona"
+      ],
+      "color": "#d93f3f",
+      "salesPersonId": "1736953757744"
+    }
+  }
+}

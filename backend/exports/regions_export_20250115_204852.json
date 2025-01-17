@@ -1,0 +1,23 @@
+{
+  "salesPeople": [
+    {
+      "firstName": "Chris",
+      "lastName": "Reynolds",
+      "email": "c@c.com",
+      "phone": "6024126019",
+      "id": "1736995676100"
+    }
+  ],
+  "regions": {
+    "West Region": {
+      "territories": [
+        "Alabama",
+        "Arizona",
+        "Alaska",
+        "Arkansas"
+      ],
+      "color": "#36dd52",
+      "salesPersonId": "1736995676100"
+    }
+  }
+}

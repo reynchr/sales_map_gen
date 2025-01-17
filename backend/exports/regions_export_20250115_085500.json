@@ -1,0 +1,16 @@
+{
+  "West US": {
+    "territories": [
+      "Alabama",
+      "Arkansas",
+      "California",
+      "Vermont",
+      "Washington",
+      "Utah",
+      "Yukon"
+    ],
+    "color": "#c46464",
+    "sales_rep": "Chris",
+    "sales_number": 22
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "West": {
+    "territories": [
+      "Prince Edward Island",
+      "Florida",
+      "Manitoba",
+      "Delaware",
+      "Kentucky"
+    ],
+    "color": "#cd2323",
+    "sales_rep": "Chris",
+    "sales_number": 99
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "salesPeople": [
+    {
+      "firstName": "Chris",
+      "lastName": "Reynolds",
+      "email": "chris.reynolds@quantumrhino.com",
+      "phone": "602-412-6019",
+      "id": "1736954750282"
+    },
+    {
+      "firstName": "Kiley",
+      "lastName": "Reynolds",
+      "email": "kiley.reynolds@quantumrhino.com",
+      "phone": "623-229-0965",
+      "id": "1736954772202"
+    }
+  ],
+  "regions": {
+    "West Region": {
+      "territories": [
+        "Arizona",
+        "California",
+        "Colorado",
+        "New Mexico",
+        "Utah"
+      ],
+      "color": "#3bdedb",
+      "salesPersonId": "1736954750282"
+    },
+    "Canada - West": {
+      "territories": [
+        "British Columbia",
+        "Ontario",
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba"
+      ],
+      "color": "#50f514",
+      "salesPersonId": "1736954772202"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "West": {
+    "territories": [
+      "Alabama",
+      "Arizona",
+      "California"
+    ],
+    "color": "#cc6161",
+    "sales_rep": "Chris",
+    "sales_number": 92
+  }
+}
